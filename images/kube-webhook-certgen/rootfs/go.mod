@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/onrik/logrus v0.9.0
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/spf13/cobra v1.2.1
 	github.com/tidwall/gjson v1.9.3 // indirect
 	k8s.io/api v0.22.0
